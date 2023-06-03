@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751279024988",
+    "firebase_url": "https://da-social.firebaseio.com",
+    "project_id": "da-social",
+    "storage_bucket": "da-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751279024988:android:a996f47cdae9ef12e8ef99",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751279024988-mo7lti9se4snha34uo6kjulpfs3atc8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-luzabbZBKT947sheYww1NiO6U7V4bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751279024988-mo7lti9se4snha34uo6kjulpfs3atc8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
